@@ -6,7 +6,7 @@ Welcome to the Trinity Travel website ! This is a simple landing page designed u
 
 <div align="center">
   
-  <img src="readme-images/preview.png" />
+  <img src="preview.png" />
 
   <h2 align="center">Trinity</h2>
 
