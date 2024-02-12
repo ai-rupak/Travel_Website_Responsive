@@ -19,7 +19,12 @@ Welcome to the Trinity Travel website ! This is a simple landing page designed u
 ## Demo Screeshots
 
 [Trinity-Landing-Page Desktop Demo]
-(readme-images/home.png)
+<div align="center">
+   <img src="readme-images/home.png" />
+   <img src="readme-images/about.png" />
+   <img src="readme-images/explore.png" />
+  
+</div>
 
 This project is **free to use** and does not contains any license.
 
