@@ -20,7 +20,7 @@ Welcome to the Trinity Travel website ! This is a simple landing page designed u
 
 [Trinity-Landing-Page Desktop Demo]
 <div align="center">
-   <img src="readme-images/home.png" />
+   <img src="readme-images/homepage.png" />
    <img src="readme-images/about.png" />
    <img src="readme-images/explore.png" />
   
