@@ -1,16 +1,9 @@
 # Travel_website_Responsive
 
-Welcome to the Trinity Travel website ! This is a simple landing page designed using HTML ,css and js to replicate the appearance of travel website.
+Welcome to the Trinity Travel website ! This is a simple landing page designed using HTML ,css and js to replicate the appearance of travel website.<br>
 
-## Demo
 
-<div align="center">
-  
-  <img src="preview.png" />
-
-  <h2 align="center">Trinity</h2>
-
-  This website is fully responsive , <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+This website is fully responsive , <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://trinity-travel-web.netlify.app"><strong>➥ Live Demo</strong></a>
 
