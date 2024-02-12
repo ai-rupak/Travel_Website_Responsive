@@ -15,7 +15,11 @@ This website is fully responsive ,Responsive for all devices, built using HTML, 
 <div align="center">
    <h4>Home</h4>
    <img src="readme-images/homepage.png" />
+   <h4>About</h4>
    <img src="readme-images/about.png" />
+   <h4>Popular</h4>
+   <img src="readme-images/popular.png" />
+   <h4>Explore</h4>
    <img src="readme-images/explore.png" />
   
 </div>
