@@ -11,7 +11,7 @@ This website is fully responsive ,Responsive for all devices, built using HTML, 
 
 ## Demo Screeshots
 
-[Trinity-Landing-Page Desktop Demo]
+<div align="center"><h3>[Trinity-Landing-Page Desktop Demo]</h3></div>
 <div align="center">
    <h4>Home</h4>
    <img src="readme-images/homepage.png" />
