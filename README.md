@@ -5,7 +5,7 @@ Welcome to the Trinity Travel website ! This is a simple landing page designed u
 
 This website is fully responsive ,Responsive for all devices, built using HTML, CSS, and JavaScript.
 <div align="center">
-  <a href="https://trinity-travel-web.netlify.app"><strong>➥ Live Demo</strong></a>
+  <a target="blank" href="https://trinity-travel-web.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
